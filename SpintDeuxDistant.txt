@@ -1,1 +1,0 @@
-Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonction des cours et des enseignants disponibles.
