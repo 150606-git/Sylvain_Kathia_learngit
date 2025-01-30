@@ -1,1 +1,2 @@
-"Création de la base de données et des modèles de données"
+Création de la base de données et des modèles de données
+En tant que directeur d'études,je veux pouvoir créer,modifier et supprimer des cours (intitulé,horaires,salle,enseignant)
